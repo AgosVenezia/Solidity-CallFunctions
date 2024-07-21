@@ -56,4 +56,4 @@ The `deposit` function in the Aave LendingPool contract is responsible for handl
 The `deposit` function, through its use of encoding and low-level calls, exemplifies the careful balance of flexibility, functionality, and security within the Aave protocol, contributing significantly to its efficiency and reliability.
 
 
-[A project by Agostina Venezia for StackUp](https://earn.stackup.dev/)
+#### [A project by Agostina Venezia for StackUp](https://earn.stackup.dev/)
